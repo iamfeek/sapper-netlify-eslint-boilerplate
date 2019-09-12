@@ -33,7 +33,7 @@
 </style>
 
 <svelte:head>
-  <title>Pynook | Pin it</title>
+  <title>Boilerplate | Sapper + Netlify + ESLint</title>
 </svelte:head>
 
 <h1>Great success!</h1>

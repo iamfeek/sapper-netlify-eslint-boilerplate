@@ -1,6 +1,6 @@
 {
-  "name": "pynook",
-  "description": "Just pin it!",
+  "name": "sapper-netlify-eslint-boilerplate",
+  "description": "__CHANGE__",
   "version": "0.0.1",
   "scripts": {
     "dev": "cross-env NODE_ENV=dev npm-run-all --parallel dev:app dev:server",
